@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://github.com/carmonabernaldiego">
-    <img src="https://komarev.com/ghpvc/?username=carmonabernaldiego&color=blue)" />
+    <img src="https://komarev.com/ghpvc/?username=carmonabernaldiego&color=blue" />
   </a>
 </p>
 
