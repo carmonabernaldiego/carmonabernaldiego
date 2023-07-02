@@ -41,6 +41,12 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carmonabernaldiego&theme=bear" />
   </a>
     <a href="https://github.com/carmonabernaldiego">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carmonabernaldiego&theme=bear" />
+  </a>
+    <a href="https://github.com/carmonabernaldiego">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carmonabernaldiego&theme=bear" />
+  </a>
+    <a href="https://github.com/carmonabernaldiego">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carmonabernaldiego&theme=bear&utcOffset=8" />
   </a>
   <a href="https://github.com/carmonabernaldiego">
