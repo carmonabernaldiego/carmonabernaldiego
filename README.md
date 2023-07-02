@@ -29,12 +29,13 @@
 [![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)](https://github.com/carmonabernaldiego)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/carmonabernaldiego)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/carmonabernaldiego)
+[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://hub.docker.com/u/carmonabernaldiego)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/carmonabernaldiego)
 
 ### OS
 
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/carmonabernaldiego)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/carmonabernaldiego)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/carmonabernaldiego)
 
 <details>
 <p align="center">
