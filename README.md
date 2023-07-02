@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://github.com/carmonabernaldiego">
-    <img src="https://komarev.com/ghpvc/?username=carmonabernaldiego&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=carmonabernaldiego&color=blueviolet&style=flat)" />
   </a>
 </p>
 
