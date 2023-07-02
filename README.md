@@ -5,10 +5,10 @@
         I'm Diego Carmona Bernal.<br>
         I'm a passionate Software Engineering student and I'm open to collaborating on interesting and innovative projects. I'm constantly seeking opportunities to apply my skills and knowledge in software development. If you have any ideas or projects in mind, feel free to reach out to me! I'm excited to be part of motivated teams and work on exciting projects. Let's create something amazing together!<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/carmonabernaldiego">
+    <a href="https://www.linkedin.com/in/cbdiego/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:carmonabernaldiego1@gmail.com">
+    <a href="mailto:cbdiegox@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
 </p>
@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/carmonabernaldiego">
-    <img src="https://komarev.com/ghpvc/?username=carmonabernaldiego&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=carmonabernaldiego&color=purple&style=flat)" />
   </a>
 </p>
 
