@@ -44,7 +44,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=carmonabernaldiego&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/carmonabernaldiego">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carmonabernaldiego&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carmonabernaldiego&theme=dracula" />
   </a>
 </p>
 </details>
