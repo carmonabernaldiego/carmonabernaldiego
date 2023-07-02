@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone! <img src="" width="28px" alt="👋"></h1>
+<h1 align="center">Hi everyone! <img src="https://github.com/carmonabernaldiego/carmonabernaldiego/assets/43613125/109b6957-b112-4c27-be22-31eb35383d44" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
