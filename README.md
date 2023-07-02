@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/Email-blueviolet?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
     <a href="https://www.linkedin.com/in/cbdiego/">
-        <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-fedcba?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
 
