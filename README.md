@@ -38,13 +38,13 @@
 <details>
 <p align="center">
   <a href="https://github.com/carmonabernaldiego">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carmonabernaldiego&theme=dracula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carmonabernaldiego&theme=bear" />
   </a>
     <a href="https://github.com/carmonabernaldiego">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carmonabernaldiego&theme=dracula&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carmonabernaldiego&theme=bear&utcOffset=8" />
   </a>
   <a href="https://github.com/carmonabernaldiego">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carmonabernaldiego&theme=dracula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carmonabernaldiego&theme=bear" />
   </a>
 </p>
 </details>
