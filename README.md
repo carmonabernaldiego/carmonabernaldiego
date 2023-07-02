@@ -38,7 +38,7 @@
 <details>
 <p align="center">
   <a href="https://github.com/carmonabernaldiego">
-    <img src="[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carmonabernaldiego&theme=transparent](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carmonabernaldiego&theme=dracula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carmonabernaldiego&theme=dracula" />
   </a>
   <a href="https://github.com/carmonabernaldiego">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=carmonabernaldiego&hide_border=true&card_width=338&theme=transparent" />
