@@ -6,12 +6,6 @@
         I'm Diego Carmona Bernal.<br>
         I'm a passionate Software Engineering student and I'm open to collaborating on interesting and innovative projects. If you have any ideas or projects in mind, feel free to reach out to me! I'm excited to be part of motivated teams and work on exciting projects. Let's create something amazing together!<br>
     </i><br>
-    <a href="mailto:cbdiegox@gmail.com">
-        <img src="https://img.shields.io/badge/Email-1f6feb?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
-    <a href="https://www.linkedin.com/in/cbdiego/">
-        <img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
 </p>
 
 ### Languages
